@@ -1,0 +1,5 @@
+para compilar:
+
+./configure --x-libraries=/usr/X11R6/lib && make && sudo make install
+
+O código que manipula o sinal foi colado daqui: http://www.linuxprogrammingblog.com/code-examples/sigaction
